@@ -19,16 +19,16 @@
 [<img aligh="left" alt="niteshprajapat7918 | Discord" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>](https://discord.com/channels/@niteshprajapat)
 
 <br/>
-<br/>
+
 
 ## Top programming Language:  
 <br/>
-<br/>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshprajapat)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
-<br/>
+
 
 ## Github stats  
 <br/>
@@ -36,5 +36,4 @@
 <img align="left" alt="niteshprajapat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=niteshprajapat&show_icons=true&hide_border=true&theme=dracula"/>  
 
 
-<br/>
 
