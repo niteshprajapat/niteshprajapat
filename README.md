@@ -12,7 +12,7 @@
   
 <br/>
 
-[<img aligh="left" alt="niteshprajapat7918 | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://www.instagram.com/niteshprajapat7918)&nbsp; &nbsp; 
+[<img aligh="left" target="_blank" alt="niteshprajapat7918 | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://www.instagram.com/niteshprajapat7918)&nbsp; &nbsp; 
 [<img aligh="left" alt="niteshprajapat7918 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/nitesh-prajapat-429a811a0)&nbsp; &nbsp;
 [<img aligh="left" alt="niteshprajapat7918 | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](https://twitter.com/NITESHP76730982)&nbsp; &nbsp;
 [<img aligh="left" alt="niteshprajapat7918 | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>](https://www.gmail.com/)&nbsp; &nbsp;
