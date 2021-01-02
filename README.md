@@ -23,18 +23,12 @@
 ## Languages and Tools: 
 <br/>
 
-[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>]()&nbsp; &nbsp;  
-
+[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>]()&nbsp; &nbsp;
 [<img align="left" alt="Git" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/768px-Git_icon.svg.png"/>]()&nbsp; &nbsp;
-
 [<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>]()&nbsp; &nbsp;
-
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>]()&nbsp; &nbsp;  
-
+[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>]()&nbsp; &nbsp;
 [<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/452/c-programming.png"/>]()&nbsp; &nbsp;
-
 [<img align="left" alt="Figma" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png"/>]()&nbsp; &nbsp;
-
 [<img align="left" alt="MySql" width="30px" src="https://p7.hiclipart.com/preview/747/798/387/mysql-database-web-development-computer-software-dolphin.jpg"/>]()&nbsp; &nbsp;
 
 
