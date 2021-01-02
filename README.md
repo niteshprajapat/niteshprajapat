@@ -2,7 +2,7 @@
 <br/>  
  
  - **🌱** &nbsp; I’m currently learning **Python**, **Selenium**. 
- - **👯** &nbsp; I’m looking to collaborate on Python Projects with geekyprogrammer.
+ - **👯** &nbsp; I’m looking to collaborate on Python Projects with **geekyprogrammer**.
  - **💬** &nbsp; Ask me about **Python**, **Selenium**.
  - **⚡** &nbsp; Fun fact: Everything is **Hell** except code. Code never **lies**.   
 
