@@ -1,4 +1,4 @@
-## Hi there 👋 I'm **Nitesh Prajapat**.
+## Hi there 👋 I'm **Nitesh Prajapat** | **pyd3v** 
 <br/>  
  
  - **🌱** &nbsp; I’m currently learning **Python**, **Selenium**. 
