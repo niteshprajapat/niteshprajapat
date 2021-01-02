@@ -33,6 +33,8 @@
 
 [<img align="left" alt="C" width="30px" src="https://img.icons8.com/color/452/c-programming.png"/>]()&nbsp; &nbsp;
 
+[<img align="left" alt="Figma" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png"/>]()&nbsp; &nbsp;
+
 [<img align="left" alt="MySql" width="30px" src="https://p7.hiclipart.com/preview/747/798/387/mysql-database-web-development-computer-software-dolphin.jpg"/>]()&nbsp; &nbsp;
 
 
