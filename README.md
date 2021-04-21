@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm **Nitesh Prajapat** | **pyd3v** 
 <br/>  
  
- - **🌱** &nbsp; I’m currently learning **Python**, **Selenium**. 
+ - **🌱** &nbsp; I’m currently learning **Python**, **Data Science stuff**. 
  - **👯** &nbsp; I’m looking to collaborate on Python Projects with **geekyprogrammer**.
  - **💬** &nbsp; Ask me about **Python**, **Selenium**.
  - **⚡** &nbsp; Fun fact: Everything is **Hell** except code. Code never **lies**.   
